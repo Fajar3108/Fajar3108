@@ -25,7 +25,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://https://www.linkedin.com/in/maulana-fajar-620a471a4/"><img src="https://img.shields.io/badge/-Maulana%20Fajar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/maulana-fajar-620a471a4/"><img src="https://img.shields.io/badge/-Maulana%20Fajar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:maulanafajaribrahim@gmail.com"><img src="https://img.shields.io/badge/-maulanafajaribrahim@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mafi.3108"><img src="https://img.shields.io/badge/-@mafi.3108-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
